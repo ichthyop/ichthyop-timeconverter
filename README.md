@@ -1,6 +1,4 @@
-=========================
-TimeConverter readme file
-================================
+# TimeConverter readme file
 
 
 TimeConverter is a handy tool to convert elapsed seconds since a time orgin into a human readable date and reciprocally.
